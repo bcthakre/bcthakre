@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhupendrasinh Thakre (BT) =================================================================================================================================================  Data, Machine, and Development ------------------------------  I am a developer in Machine Learning, Artificial Intelligence, and Web or Mobile Technology. Love working at the intersection. Always, trying to get hands on with helpful stuff.  * 🌍  I'm based in United States * 🧠  I'm learning Machine Learning * 🤝  I'm open to collaborating on Machine Learning and Data Science * ⚡  Love reading books of all kinds. Can make a good milk tea.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhupendrasinh Thakre (BT) 
+
+Data, Machine, and Development 
+
+I am a developer in Machine Learning, Artificial Intelligence, and Web or Mobile Technology. Love working at the intersection. Always, trying to get hands on with helpful stuff.  * 🌍  I'm based in United States * 🧠  I'm learning Machine Learning * 🤝  I'm open to collaborating on Machine Learning and Data Science * ⚡  Love reading books of all kinds. Can make a good milk tea.
 
 <a href="https://www.github.com/bcthakre" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bcthakre?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 ### Skills  
